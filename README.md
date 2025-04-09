@@ -2,7 +2,7 @@
 
 Repo: [https://ucsb-cs156-s25/jpa02-klai890](https://github.com/ucsb-cs156-s25/jpa02-klai890.git)
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](https://jpa02-klai890.dokku-03.cs.ucsb.edu/)
+Deployed at: https://jpa02-klai890.dokku-03.cs.ucsb.edu
 
 
 # About this repo
